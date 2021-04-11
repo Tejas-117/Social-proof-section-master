@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://tejas-117.github.io/Social-proof-section-master/)
+- [Solution URL](https://github.com/Tejas-117/Social-proof-section-master)
+- [Live Site URL](https://tejas-117.github.io/Social-proof-section-master/)
 
 ## My process
 
